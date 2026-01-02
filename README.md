@@ -26,6 +26,17 @@ This project helped me understand how real-world ticketing systems can be built 
 [Click here to watch demo vide] on https://github.com/Arpit-Sawarkar/Bus--Ticket--Generator/issues/1
 
 ## Sample Ticket Output
-(See screenshots in the demo issue above)
 
+<img 
+  width="373" 
+  height="286" 
+  alt="image1"
+  src="https://github.com/user-attachments/assets/02d9f2ae-0cc4-4ed4-bf70-a6b0cfbeea01" 
+/>
 
+<img 
+  width="577" 
+  height="477" 
+  alt="image2"
+  src="https://github.com/user-attachments/assets/1e282d56-d0bb-4384-bf00-22f48e5bd21b" 
+/>
