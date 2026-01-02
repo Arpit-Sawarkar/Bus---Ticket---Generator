@@ -23,6 +23,9 @@ This project helped me understand how real-world ticketing systems can be built 
    python main.py
  
 ## Project Demo 
-[Click here to watch demo vide](demo/Bus Ticket.mp4)
+[Click here to watch demo vide] on https://github.com/Arpit-Sawarkar/Bus--Ticket--Generator/issues/1
+
+## Sample Ticket Output
+(See screenshots in the demo issue above)
 
 
