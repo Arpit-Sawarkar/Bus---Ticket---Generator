@@ -23,6 +23,6 @@ This project helped me understand how real-world ticketing systems can be built 
    python main.py
  
 ## Project Demo 
-[Click here to watch demo vide](demo/Bus-Ticket.mp4)
+[Click here to watch demo video](demo/Bus-Ticket.mp4)
 
 
