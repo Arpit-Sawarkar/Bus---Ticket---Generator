@@ -1,0 +1,17 @@
+#PyCharm / Intellij
+.idea/
+
+#Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#Virtual environment
+*venv/
+venv/
+
+
+#OS Files
+.ds_store
+Thumbs.db
